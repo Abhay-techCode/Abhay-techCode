@@ -1,8 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abhay Patil</h1>
-<h3 align="center">🚀 Software Engineer | Full Stack Developer | Python & Java Developer</h3>
+<h1 align="center">
+  Hi 👋, I'm Abhay Patil
+</h1>
+
+<h3 align="center">
+🚀 Software Engineer | Full Stack Developer | Python • Java • SQL
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineer;Full+Stack+Developer;Python+Developer;Java+Developer;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineer+in+the+Making;Full+Stack+Developer;Python+%7C+Java+Developer;Always+Learning+New+Technologies!" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abhay-techCode&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Abhay-techCode?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Abhay-techCode?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -11,17 +26,18 @@
 
 🎓 Final Year Engineering Student
 
-💻 Passionate about Software Development & Problem Solving
+💻 Passionate about Software Development
 
 🌱 Currently Learning
+
 - Full Stack Development
 - Data Structures & Algorithms
 - Cloud Computing
 - AI & Machine Learning
 
-🚀 Building Real World Projects
+🎯 Goal
 
-🎯 Goal: Become a Software Engineer at a Top Product Company
+> To become a Software Engineer at a top product-based company where I can build scalable software that impacts millions of users.
 
 ---
 
@@ -30,58 +46,106 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
+
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django"/>
+
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+
 </p>
 
-### Tools
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</p>
 
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,postman"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Currently Working On
+
+- 🚀 Full Stack Projects
+- 📈 Data Structures & Algorithms
+- ☁️ AWS Cloud
+- 🤖 AI Applications
+- 📱 Firebase Applications
+
+---
+
+# 🏆 Certifications
+
+✅ HackerRank SQL Certificate
+
+✅ HackerRank SQL (Top 25%)
+
+✅ Infosys Springboard Python
+
+✅ Infosys Springboard Java
+
+✅ Infosys Springboard Business Communication
+
+---
+
+# 🏅 Achievements
+
+🏆 Top 25% in SQL Assessment
+
+💻 Built Multiple Full Stack Projects
+
+🚀 Passionate Open Source Learner
+
+📚 Constantly Improving Problem Solving Skills
+
+---
+
+# 🚀 Featured Projects
+
+⭐ NeuroBoost
+
+Brain training platform with interactive games.
+
+⭐ Tech Sathi
+
+AI-powered Job Application Tracker.
+
+⭐ Zero Voice Assistant
+
+Python Voice Assistant capable of opening applications and executing commands.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhay-techCode&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-techCode&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-techCode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -91,25 +155,35 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-techCode&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Abhay-techCode&theme=algolia&row=2&column=4"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Abhay-techCode">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://linkedin.com/in/abhay-patil-12b918316">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abhaycpatil2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -117,14 +191,50 @@
 
 ---
 
+# 📫 Contact Me
+
+📧 Email
+
+abhaycpatil2005@gmail.com
+
+🔗 LinkedIn
+
+https://linkedin.com/in/abhay-patil-12b918316
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack a Software Engineering role
+
+✅ Master Full Stack Development
+
+✅ Learn AWS
+
+✅ Solve 500+ DSA Problems
+
+✅ Contribute to Open Source
+
+✅ Build AI Products
+
+---
+
 # 💡 Quote
 
-> "Great software is built one commit at a time."
+> "Code. Learn. Improve. Repeat."
+
+---
+
+# ⚡ Fun Fact
+
+> I love transforming ideas into real-world software that solves meaningful problems.
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
