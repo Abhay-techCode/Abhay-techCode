@@ -487,13 +487,6 @@ Final-year Computer Science Engineering student specializing in **Java full-stac
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhay-techCode/Abhay-techCode/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
-> Generated automatically via GitHub Actions (workflow included below in the Automation section)
 
 ---
 
