@@ -145,7 +145,7 @@ Python Voice Assistant capable of opening applications and executing commands.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-techCode&layout=compact&theme=tokyonight&hide_border=true"/>
+<h3>PYTHON<br>JAVA</h3>
 
 </p>
 
@@ -161,13 +161,6 @@ Python Voice Assistant capable of opening applications and executing commands.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhay-techCode&theme=algolia&row=2&column=4"/>
-
-</p>
 
 ---
 
